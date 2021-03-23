@@ -11,9 +11,7 @@
                 "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**"
             ],
-            "forcedInclude": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
-            ],
+            "forcedInclude": [],
             "defines": [
                 "USBCON"
             ],
